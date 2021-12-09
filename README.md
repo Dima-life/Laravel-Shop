@@ -73,3 +73,4 @@ For starting queue of tasks:
 ```
 php artisan queue:work
 ```
+Здравствуйте ,  Есть предложение по созданию бекенда  +380956447496 вацап
